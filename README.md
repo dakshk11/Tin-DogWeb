@@ -1,1 +1,1 @@
-TinDog Starting Files
+Give Your Dog the Love of a Lifetime.
