@@ -1,5 +1,16 @@
-h1 {  
-    font-family: "Montserrat";  
+body{
+    text-align: center;
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Montserrat";
+}
+
+
+.heading-1 {  
+      
     font-size: 3rem;  
     line-height: 1.5;  
     font-weight: 900;
@@ -37,22 +48,7 @@ h1 {
 
 
 
-.f1{
-    border: block;
-    border-color: white;
-    
-    margin: auto;
-
-}
-
-.f2{
-    border: block;
-    border-color: white;
-    margin: auto;
-
-}
-
-.f3{
+.f1, .f2, .f3{
     border: block;
     border-color: white;
     
@@ -82,7 +78,7 @@ h1 {
 }
 
 .testi{
-    font-family: "Montserrat-Bold";
+    font-family: "Montserrat";
     font-size: 3rem;
     line-height: 3rem;
 }
