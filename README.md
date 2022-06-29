@@ -1,2 +1,1 @@
-# Tin-DogWeb
-Give dogs a love for their lifetime.
+TinDog Starting Files
